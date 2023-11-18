@@ -450,7 +450,7 @@ html, body {
   content: "";
   width: 509px;
   height: 538px;
-  background-image: url("./img/gift.png");
+  background-image: url("./../img/gift.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -541,7 +541,7 @@ html, body {
 }
 .header__bottom-image {
   position: relative;
-  background-image: url("./img/main-bg.jpg");
+  background-image: url("./../img/main-bg.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
