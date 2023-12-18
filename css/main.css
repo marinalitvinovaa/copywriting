@@ -541,8 +541,8 @@ html, body {
 }
 .header__bottom-image {
   position: relative;
-  background-image: url("./../img/main-bg.jpg");
-  background-position: center;
+  background-image: url("./../img/main-bg.jpeg");
+  background-position: top center;
   background-repeat: no-repeat;
   background-size: cover;
   max-width: 100%;
@@ -678,6 +678,7 @@ html, body {
     width: 80%;
     height: 100vh;
     background-color: #fff;
+    
   }
   .menu__list {
     display: none;
